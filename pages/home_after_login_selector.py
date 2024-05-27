@@ -11,7 +11,7 @@ with col2:
 
 col1, col2 =st.columns(2)
 with col1: 
-    st.button("일자리를 구하고 신가요?")
+    st.button("일자리를 구하고 계신가요?")
     st.text("description")
 with col2:    
     st.image("images/sundayafternoon.jpg")

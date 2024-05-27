@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-st.header("노세노세", divider='orange')
+st.header("노세老世", divider='orange')
 
 col1, col2=st.columns(2)
 with col1:

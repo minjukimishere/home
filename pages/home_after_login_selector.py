@@ -19,7 +19,7 @@ with col2:
 st.text("From cradle to grave service")
 col1,col2,col3,col4,col5= st.columns(5)
 with col1:
-    st.button("어린이")
+    st.link_button("어린이","https://mow8peylknmiuskhb3cgg8.streamlit.app/")
     st.text("description")
 with col2:
     st.button("노인")

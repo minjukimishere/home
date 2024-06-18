@@ -30,8 +30,7 @@ else:
 
     col1, col2 =st.columns(2)
     with col1:
-        st.button("일자리를 구하고 계신가요?")
-        #st.link_button("일자리를 구하고 계신가요?","웹주소")
+        st.link_button("일자리를 구하고 계신가요?","https://gwhvhsm2seaokwyhuoybhq.streamlit.app/")
         st.markdown("")
         st.markdown("**AIHR**")
         st.markdown("원하는 인재를 AI가 자동으로 추천해드려요")
